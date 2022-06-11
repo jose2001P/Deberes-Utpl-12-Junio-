@@ -17,3 +17,8 @@ public void escoger(){
 public void salir(){
 	System.out.println("salir del juego ");
 	}
+
+  //contructores
+  public juego(){
+    
+  }
