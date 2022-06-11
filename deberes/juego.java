@@ -18,8 +18,8 @@ public void salir(){
 	System.out.println("salir del juego ");
 	}
   //contructores
-public juego(string nombre, string fases){
-	this.nombre=nombre
-	this.fases=fases
-	this.juego=juego
+public juego(string nombre, string fases, int dificultad){
+	this.nombre=nombre;
+	this.fases=fases;
+	this.dificultad=dificultad;
 }
