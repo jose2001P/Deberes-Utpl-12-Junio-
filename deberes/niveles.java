@@ -15,7 +15,9 @@ public void acceder(){
 	System.out.println("accedo al juego");
 }
 
-//Constructores
-public niveles (){
-  
-}
+//contructores
+public niveles(string nombre, string grado, int espacio){
+    this.nombre = nombre;
+    this.grado = grado;
+    this.espacio = espacio;
+  }
