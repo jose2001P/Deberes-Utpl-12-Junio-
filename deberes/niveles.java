@@ -14,3 +14,8 @@ public void ficha(){
 public void acceder(){
 	System.out.println("accedo al juego");
 }
+
+//Constructores
+public niveles (){
+  
+}
