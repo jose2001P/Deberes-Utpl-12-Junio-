@@ -17,8 +17,9 @@ public void escoger(){
 public void salir(){
 	System.out.println("salir del juego ");
 	}
-
   //contructores
-  public juego(){
-    
-  }
+public juego(string nombre, string fases){
+	this.nombre=nombre
+	this.fases=fases
+	this.juego=juego
+}
